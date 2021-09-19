@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url('https://www.edunews.pl/images/obrazki/school03.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-body {
+
+    background-color: darkseagreen;
+}
+
+.card-title{
+
+    text-decoration-style: inherit;
+
+}
